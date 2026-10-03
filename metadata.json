@@ -1,0 +1,8 @@
+{
+  "name": "BookEase - Appointment & Service Booking",
+  "description": "A seamless booking platform with user authentication, interactive calendar, appointment scheduling, and booking management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
